@@ -1,5 +1,4 @@
- ![plot](./images/header.gif)
-<h1 align="center">### Hi there 👋, I'm Andrés Felipe Ocaña Pantoja</h1>
+<h1 align="center">### Hi there 👋, I'm Andrés Ocaña</h1>
 <h3><b>I am a systems engineer from Colombia and I like software development</b></h3>
 
 - 🌱 I’m currently learning **Laravel, bootstrap, MySQL**
