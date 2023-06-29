@@ -17,4 +17,5 @@
 - 📫 **880204.afop@gmail.com**
 - 📫 **[Linkedin](https://www.linkedin.com/in/andresocana-desarrollador/)**
 
+- Location: Pasto, Nariño - Colombia
 -->
